@@ -26,7 +26,7 @@ Dear Coordinator,
 
 I hope you are having a good week.
 
-My name is Harman Singh, and I am a first-year Computer Science Engineering student at VIT Bhopal University. I have been following [Company Name]'s recent projects in predictive analytics, and I am very impressed by your team's innovative approach.
+My name is Harman Singh, and I am a first-year Computer Science Engineering student at VIT Bhopal University. I have been following your company's recent projects in predictive analytics, and I am very impressed by your team's innovative approach.
 
 I am reaching out to inquire if your team is offering any summer internship opportunities for students passionate about Artificial Intelligence and Machine Learning. Over the past two semesters, I have built a strong foundation in Python and data processing, and I am eager to contribute to a real-world team while expanding my skills.
 
