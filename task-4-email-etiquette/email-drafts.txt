@@ -2,7 +2,7 @@ Email 1: Assignment Extension Request
 
 Subject: Extension Request: Python Data Structures Assignment - Harman Singh (25BCE10077)
 
-Dear Professor [Professor's Last Name],
+Dear Professor,
 
 I hope this email finds you well.
 
@@ -22,7 +22,7 @@ Email 2: Summer Internship Inquiry
 
 Subject: Inquiry Regarding Summer AI/ML Internship Opportunities - Harman Singh
 
-Dear [Coordinator's Name or Hiring Manager],
+Dear Coordinator,
 
 I hope you are having a good week.
 
